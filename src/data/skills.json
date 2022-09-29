@@ -1,0 +1,141 @@
+{
+  "tags": [
+    "Web Development",
+    "Front-end",
+    "Back-end",
+    "Databases",
+    "Full-stack",
+    "UI Development",
+    "Agile",
+    "Data Visualization",
+    "REST APIs",
+    "API Architecture",
+    "Enterprise"
+  ],
+  "skills": [
+    {
+      "skillName": "Languages",
+      "details": "JavaScript, TypeScript, CSS, HTML, C#, SQL, GraphQL, CSS3, HTML5"
+    },
+    {
+      "skillName": "Frameworks",
+      "details": ".NET, .NET Core, Angular, ReactJs, Loopback, Entity Framework Core, NUnit"
+    },
+    {
+      
+      "skillName": "Libraries/APIs",
+      "details": "REST APIs, LINQ, Facebook API, Google API"
+    },
+    {
+      "skillName": "Paradigms",
+      "details": "Agile, Waterfall Development"
+    },
+    {
+      "skillName": "Tools",
+      "details": "Microsoft Visual Studio, Git, xUnit, VS Code"
+    },
+    {
+      "skillName": "Storage",
+      "details": "MongoDB, Microsoft SQL Server, Redis Cache, PostgreSQL"
+    }
+  ],
+  "employment": [
+    {
+      "role": "Software Developer",
+      "company": "FPT-Software",
+      "date": "08/2021 • Present",
+      "technologies": "Microsoft SQL Server, Oracle Database, Microsoft Dynamics 365, NodeJs,...",
+      "descriptions": [
+        "Created new functionality for the back-end service of a mobile application.",
+        "Developed new features.",
+        "Refactored existing code.",
+        "Fixed bugs and wrote tests for new and existing functionality.",
+        "Utilized HTML5, SASS, and Bootstrap to build cutting edge and responsive pages."
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "company": "QA-SOLUTION",
+      "date": "03/2020 • 08/2021",
+      "technologies": "Windows Forms, Microsoft SQL Server, OAuth, NUnit, NodeJs, ReactJs,...",
+      "descriptions": [
+        "Collaborated with team members in extending features to an existing RESTful API that can provide both web and mobile platforms.",
+        "Created CRON jobs for data updating and synchronization.",
+        "Helped the QA teams with development and setup of automation framework standards.",
+        "Collaborated across teams to improve process, design, and architecture.",
+        "Worked closely with stakeholders and the UI/UX designer on the implementation and design of new features."
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "company": "Focus",
+      "date": "08/2018 • 02/2020",
+      "technologies": "Web Forms, Web API, JavaScript, HTML, CSS, XSLT...",
+      "descriptions": [
+        "Implemented reporting using Crystal Reports.",
+        "Worked mainly in the back-end/database field for the above project but also did front-end tasks as well.",
+        "Optimized and improved site performance.",
+        "Developed new features for the admin section of the site.",
+        "Migrated a product from Web Forms to MVC."
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "company": "LIINK",
+      "date": "05/2017 • 02/2018",
+      "technologies": "Windows Forms, Web Forms, DNN, Telerik, Bootstrap, SQL Server,...",
+      "descriptions": [
+        "Built the front-end of a asp.net application to web portal.",
+        "Designed a back-end solution that was integrated with Microsoft SQL Server.",
+        "Created front-end configuration tools for their back-end database.",
+        "Built and maintained web applications for their clients.",
+        "Refactored the previous website, added new features, and fixed bugs."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "project": "Mega App",
+      "details": [
+        "Mega app is “a closed ecosystem of many apps” that agents would use everyday because it would support to increase productivity and offer a seamless interaction with customer.",
+        "Provide ease of use for all agents by merging all applications into ONE (seamless interaction, up to date apps, etc…).",
+        "Increase customer’s engagement, generate lead and provide next best offer.",
+        "Improve agent’s engagement (meeting, forum, feedback, digital support, collecting/exchange points to gift, etc…)."
+      ]
+    },
+    
+    {
+      "project": "Medical management software",
+      "details": [
+        "QAS SmartHospital System is a comprehensive healthcare management solution. The system is designed with a full range of smart features, following all operating needs of each medical facility."
+      ]
+    },
+    {
+      "project": "Hospitalize Queue",
+      "details": [
+        "Streamline customer flow with a hospital queue management system.",
+        "A queue management system is used to streamline patient flow through hospitals and clinics. Don’t make patients wait longer than they have to."
+      ]
+    },
+    {
+      "project": "ChaoPatient Mobile App",
+      "details": [
+        "This is an app that helps patients manage their own medical records. This is one of the key benefits of healthcare digital transformation.",
+        "When a patient walks into any one of your hospitals, how can your staff greet them by name, and have the doctor ready to see them with a case history and a list of medications?"
+      ]
+    },
+    {
+      "project": "PSW",
+      "details": [
+        "A web-based application for managing market demand statistics, Information on buying, selling, shipping and receiving goods and warehouse management.",
+        "PSW is software helping businesses of monitoring the campaign's effectiveness by reports."
+      ]
+    },
+    {
+      "project": "Environment Protection commitment Portal",
+      "details": [
+        "A web-based application for manages the environmental protection contract of the company with DONRE Soc Trang."
+      ]
+    }
+  ]
+}

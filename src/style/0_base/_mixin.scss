@@ -1,0 +1,27 @@
+
+
+//============================================
+// clearfix
+//============================================
+@mixin clear {
+  *zoom: 1;
+  &:after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
+
+//============================================
+// breakpoint
+//============================================
+@mixin sp {
+  @media screen and (max-width: #{$breakpointMenu}) {
+    @content;
+  }
+}
+
+
+@mixin func() {
+  @content;
+}

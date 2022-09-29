@@ -1,0 +1,69 @@
+{
+    "abouts": {
+        "octicon_location": "Ho Chi Minh, Viet Nam",
+        "Portfolio": {
+            "FPT": {
+                "name": "FPT-Software",
+                "resume_details": " REST APIs, Oracle Database, Front-end, Swagger, Microsoft Dynamics"
+            },
+            "QA": {
+                "name": "QA Solutions",
+                "resume_details": "Analysis and design, REST APIs, SignalR, DevExpress, React, Redux, Ionic"
+            },
+            "LIINK": {
+                "name": "LIINK",
+                "resume_details": "Telerik, XSLT, ASP.NET, SQL, C#, DNN"
+            }
+        },
+        "Toptags": [
+            "Web Development",
+            "Front-end",
+            "Web Hosting & Domain Setup",
+            "Full-stack",
+            "Back-end Development",
+            "UI Development",
+            "Back-end",
+            "Back-end Performance",
+            "Data Visualization",
+            "REST APIs",
+            "API Architecture",
+            "Enterprise"
+        ],
+        "FExperience": [
+            {
+                "name": "C#",
+                "years": "5"
+            },
+            {
+                "name": "REST APIs",
+                "years": "5"
+            },
+            {
+                "name": "Backend",
+                "years": "4"
+            },
+            {
+                "name": "React",
+                "years": "2"
+            },
+            {
+                "name": "Mobile Apps",
+                "years": "1"
+            }
+        ],
+        "Education": [
+            {
+                "school": "Cantho University Software Center",
+                "degree": "HIGH DIPLOMA SOFTWARE ENGINEER (HDSE 2016)",
+                "major": "Software Engineer",
+                "graduation_year": "2015-2016"
+            },
+            {
+                "school": "Cantho University Software Center",
+                "degree": "DIPLOMA IN INFORMATION SYSTEMS MANAGEMENT (DISM 2015)",
+                "major": "Software Engineer",
+                "graduation_year": "2013-2015"
+            }
+        ]
+    }
+}

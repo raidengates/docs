@@ -1,0 +1,33 @@
+.container{
+    position:relative; 
+    z-index: 2;
+    background-color: white;
+}
+
+.pd-tb-60 {
+    padding: 60px 0;
+}
+
+.pd-t-60{
+    padding-top: 60px;
+}
+.custom-shape-divider-bottom-1653120484 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1653120484 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 164px;
+}
+
+.custom-shape-divider-bottom-1653120484 .shape-fill {
+    fill: #FFFFFF;
+}

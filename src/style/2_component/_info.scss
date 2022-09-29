@@ -1,0 +1,96 @@
+.c-info {
+    .wraper-about {
+        display        : flex;
+        flex-direction : row;
+        align-items    : start;
+        width          : 100%;
+        justify-content: space-around;
+        flex           : 2 1 50%;
+    }
+}
+
+.c-portfolio {
+    width: 100%;
+    .portfolio-item{
+        margin-bottom: 5px;
+    }
+    .about-text {
+        text-align: left;
+
+        .name {
+            color      : var(--main-text-color-fourth);
+            font-size  : var(--default-font-size);
+            font-weight: 500;
+            line-height: 20px;
+        }
+
+        .resume-details {
+            color      : var(--main-text-color);
+            font-size  : var(--default-font-size);
+            font-weight: 300;
+            line-height: 20px;
+        }
+    }
+
+}
+
+.c-for-experience {
+    width: 100%;
+    p{
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    span{
+        font-size:  var(--default-font-size);
+        color: var(--main-text-color);
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .fei-name{
+        text-align: left;
+        border: 1px solid #dfe3e9;
+        border-radius: 5px;
+        padding: 2px 16px;
+    }
+    .fei-years{
+        float: right;
+    }
+   
+    
+}
+
+.c-preferred-environment {
+    width: 100%;
+    .availability{
+        font-size:  var(--default-font-size);
+        color: var(--main-text-color);
+        font-weight: 500;
+        line-height: 20px;
+        text-align: left;
+    }
+}
+.c-amazing{
+    width: 100%;width: 100%;
+    .availability{
+        font-size:  var(--default-font-size);
+        color: var(--main-text-color);
+        font-weight: 500;
+        line-height: 20px;
+        text-align: left;
+    }
+}
+
+@include sp {
+    .c-section {
+        margin: 10px 0;
+    }
+    // .pd-t-60{
+    //     padding-top: 0px;
+    // }
+  .c-info{
+    .wraper-about {
+        flex-direction : column;
+    }
+  }
+}
+
